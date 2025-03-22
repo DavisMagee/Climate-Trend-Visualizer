@@ -9,6 +9,7 @@ The file Climate-Trend-Visualizer.py contains the main python file. Some parts o
 3. Chart titles, axis labels, and axis values may need to be manually adjusted.
 
 The .txt file is acquired through the National Oceanic and Atmospheric Administration's National Centers for Environmental Information website. It is tabulated and the only values requested are Station, Station Name, Date, and Tmin.
+The Shreveport, LA data file is included as an example.
 If different values are requested by the user the code will likely need adjustment.
 
 Any questions about the project should be directed to Davis Magee at davis.magee01@gmail.com
